@@ -2,11 +2,15 @@
 
 面向数据工程师的数据集目录、样本预览、画像报告、质量对比与多数据集合并工具。
 
-**完整可用版请到 [Releases 下载](https://github.com/tengjie3/Crawl_Data/releases/tag/intelligent-discovery-html-v2026.09.16)。解压后双击 `index.html`，无需安装 Python、Node 或启动服务器。**
+**当前已公开：源码、网页源文件、画像报告和开发说明。包含实际记录及原始媒体的完整离线包尚未公开，等待单独的公开分发授权。**
+
+完整包已在本地通过验证，但 [Releases](https://github.com/tengjie3/Crawl_Data/releases) 目前没有可下载的数据附件。授权并发布后，解压完整包即可双击 `index.html`，无需安装 Python、Node 或启动服务器。
 
 ![智能找数页面](docs/images/home.png)
 
 ## 下载与打开
+
+以下是完整包获准公开后的下载方式，目前请勿将仓库源码压缩包当作完整离线应用。
 
 完整离线包约 3.98 GB，因 GitHub 单个发布附件大小限制，拆成三个二进制分卷。它们不是三个可单独解压的 ZIP。
 
