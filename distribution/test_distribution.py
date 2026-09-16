@@ -11,7 +11,7 @@ class JoinScriptTests(unittest.TestCase):
         self.temp = tempfile.TemporaryDirectory()
         self.addCleanup(self.temp.cleanup)
         self.root = Path(self.temp.name)
-        self.base = self.root / "intelligent-data-discovery-html-only-2026-09-15.zip"
+        self.base = self.root / "intelligent-data-discovery-html-only-2026-09-16.zip"
         self.script = self.root / "join-macos-linux.command"
         shutil.copy2(Path(__file__).with_name(self.script.name), self.script)
 

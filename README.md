@@ -8,12 +8,12 @@
 
 ## 下载与打开
 
-完整离线包约 4.06 GB，因 GitHub 单个发布附件大小限制，拆成三个二进制分卷。它们不是三个可单独解压的 ZIP。
+完整离线包约 3.98 GB，因 GitHub 单个发布附件大小限制，拆成三个二进制分卷。它们不是三个可单独解压的 ZIP。
 
-1. 下载 Release 中的 `intelligent-data-discovery-html-only-2026-09-15.zip.part01`、`.part02`、`.part03`，以及 `download-helpers.zip`，放在同一个文件夹。
+1. 下载 Release 中的 `intelligent-data-discovery-html-only-2026-09-16.zip.part01`、`.part02`、`.part03`，以及 `download-helpers.zip`，放在同一个文件夹。
 2. 解压 `download-helpers.zip`，把里面的脚本放在上述三个分卷旁边。
 3. Windows 双击 `join-windows.cmd`；macOS/Linux 在此目录运行 `sh join-macos-linux.command`。只使用系统自带命令，不需要安装 Python。脚本合并并校验完整 ZIP，不会覆盖已有文件。
-4. 解压生成的 `intelligent-data-discovery-html-only-2026-09-15.zip`，用已安装的 Chrome 或 Edge 打开里面的 `index.html`。
+4. 解压生成的 `intelligent-data-discovery-html-only-2026-09-16.zip`，用已安装的 Chrome 或 Edge 打开里面的 `index.html`。
 
 保留完整目录，不能只复制 HTML。合并分卷及解压建议预留至少 15 GB 磁盘空间。Windows 建议使用短路径，例如 `C:\DataFind`。
 
@@ -40,8 +40,8 @@ GitHub 自动生成的 **Source code (zip)** 只是源码，不包含完整离�
 | 领域画像报告 | 电影、教育、文学，共 3 份 |
 | 语言分类 | 13 种已识别自然语言及 UnknownLanguage |
 | 网页运行 | `file://`，不依赖服务器、不加载运行时 CDN |
-| 完整 ZIP | 4,063,391,415 Byte |
-| 解压后文件总大小 | 5,761,859,592 Byte，107,858 个文件 |
+| 完整 ZIP | 3,975,647,640 Byte |
+| 解压后文件总大小 | 5,781,226,472 Byte，107,861 个文件 |
 
 原目录显示的 219,284,168,029 Byte 是数据集逻辑存储量，不是离线包物理大小；相同媒体使用 SHA256 寻址共享。
 
@@ -69,6 +69,7 @@ distribution/     分卷合并脚本、发布清单和 SHA256 校验值
 
 ## 数据与评分边界
 
+- 公开版对 57 条记录中的 2 个不同疑似第三方 API Key 做了片段替换，共 139 次出现；未删除整条样本，媒体不变。记录内保留脱敏说明和原归档 SHA256，详见离线包 `PUBLICATION_REDACTIONS.json`。本地原始包没有被覆盖。模式扫描不等于对全部隐私或许可的人工审核。
 - 本仓库发布的是当前智能找数静态离线应用，不是完整 HiDataAgent 后台，不包含 7×24 采集 worker、生产服务密钥或自动重新评分服务。
 - 一句话定位使用确定性的关键词规则，不是在线 LLM 或语义向量检索。
 - 四项评分是归档评估结果，OpenDataArena 项为本地代理指标，不代表官方完整训练评测。评分不是版权许可批准，也不是模型增训效果保证。

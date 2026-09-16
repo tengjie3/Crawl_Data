@@ -1,8 +1,8 @@
 @echo off
 setlocal
 cd /d "%~dp0"
-set "BASE=intelligent-data-discovery-html-only-2026-09-15.zip"
-set "EXPECTED=59895244a6888785e56b60a3757f865cd63b47b37d83d128f00e12c4d40a2602"
+set "BASE=intelligent-data-discovery-html-only-2026-09-16.zip"
+set "EXPECTED=f6b1e227b2435dbc6fd2d86db6d4d032930ac2ceeb8d9b278ee32b5b1228788e"
 if exist "%BASE%" goto existing
 for %%P in (01 02 03) do if not exist "%BASE%.part%%P" (
   echo Missing: %BASE%.part%%P

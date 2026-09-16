@@ -12,14 +12,14 @@
 需要手动合并时，macOS/Linux 可执行：
 
 ```sh
-cat intelligent-data-discovery-html-only-2026-09-15.zip.part01 intelligent-data-discovery-html-only-2026-09-15.zip.part02 intelligent-data-discovery-html-only-2026-09-15.zip.part03 > intelligent-data-discovery-html-only-2026-09-15.zip
-shasum -a 256 intelligent-data-discovery-html-only-2026-09-15.zip
+cat intelligent-data-discovery-html-only-2026-09-16.zip.part01 intelligent-data-discovery-html-only-2026-09-16.zip.part02 intelligent-data-discovery-html-only-2026-09-16.zip.part03 > intelligent-data-discovery-html-only-2026-09-16.zip
+shasum -a 256 intelligent-data-discovery-html-only-2026-09-16.zip
 ```
 
 完整 ZIP 的 SHA256 必须是：
 
 ```text
-59895244a6888785e56b60a3757f865cd63b47b37d83d128f00e12c4d40a2602
+f6b1e227b2435dbc6fd2d86db6d4d032930ac2ceeb8d9b278ee32b5b1228788e
 ```
 
 Windows 脚本使用系统自带的 `copy` 和 PowerShell `Get-FileHash`；目前未在 Windows 真机测试。若脚本不可运行，也可以使用支持分卷拼接的已有工具，拼接后务必比对上述 SHA256。

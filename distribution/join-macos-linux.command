@@ -1,8 +1,8 @@
 #!/bin/sh
 set -eu
 cd "$(CDPATH= cd -- "$(dirname -- "$0")" && pwd)"
-base=intelligent-data-discovery-html-only-2026-09-15.zip
-expected=59895244a6888785e56b60a3757f865cd63b47b37d83d128f00e12c4d40a2602
+base=intelligent-data-discovery-html-only-2026-09-16.zip
+expected=f6b1e227b2435dbc6fd2d86db6d4d032930ac2ceeb8d9b278ee32b5b1228788e
 checksum() {
     if command -v shasum >/dev/null 2>&1; then
         shasum -a 256 "$1" | awk '{print $1}'
