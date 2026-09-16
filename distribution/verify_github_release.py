@@ -12,7 +12,12 @@ def main():
     parser.add_argument("--output", type=Path)
     args = parser.parse_args()
     expected = json.loads(Path(__file__).with_name("release-manifest.json").read_text())
-    response = subprocess.run(["gh", "api", f"repos/{args.repo}/releases/tags/{args.tag}"],
+    # Draft releases have no published tag yet; resolve their stable API URL first.
+    resolved = subprocess.run(["gh", "release", "view", args.tag, "--repo", args.repo,
+                               "--json", "apiUrl"],
+                              check=True, capture_output=True, text=True)
+    api_url = json.loads(resolved.stdout)["apiUrl"]
+    response = subprocess.run(["gh", "api", api_url],
                               check=True, capture_output=True, text=True)
     release = json.loads(response.stdout)
     remote = {item["name"]: item for item in release["assets"]}

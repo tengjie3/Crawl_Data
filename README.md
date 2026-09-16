@@ -2,17 +2,23 @@
 
 面向数据工程师的数据集目录、样本预览、画像报告、质量对比与多数据集合并工具。
 
-**当前已公开：源码、网页源文件、画像报告和开发说明。包含实际记录及原始媒体的完整离线包尚未公开，等待单独的公开分发授权。**
+**[下载完整免安装离线版](https://github.com/tengjie3/Crawl_Data/releases/tag/intelligent-discovery-html-v2026.09.16)**：包含 285 个数据集、855,000 条实际记录、原始媒体、86 份独立画像报告和 3 份领域报告。
 
-完整包已在本地通过验证，但 [Releases](https://github.com/tengjie3/Crawl_Data/releases) 目前没有可下载的数据附件。授权并发布后，解压完整包即可双击 `index.html`，无需安装 Python、Node 或启动服务器。
+完整包已经过脱敏和完整性校验。下载并解压后双击 `index.html`，无需安装 Python、Node 或启动服务器。源码、网页源文件、报告和开发说明也保留在本仓库。
 
 ![智能找数页面](docs/images/home.png)
 
 ## 下载与打开
 
-以下是完整包获准公开后的下载方式，目前请勿将仓库源码压缩包当作完整离线应用。
-
 完整离线包约 3.98 GB，因 GitHub 单个发布附件大小限制，拆成三个二进制分卷。它们不是三个可单独解压的 ZIP。
+
+| 下载文件 | 大小 / 用途 |
+|---|---|
+| [数据分卷 1](https://github.com/tengjie3/Crawl_Data/releases/download/intelligent-discovery-html-v2026.09.16/intelligent-data-discovery-html-only-2026-09-16.zip.part01) | 1.50 GB |
+| [数据分卷 2](https://github.com/tengjie3/Crawl_Data/releases/download/intelligent-discovery-html-v2026.09.16/intelligent-data-discovery-html-only-2026-09-16.zip.part02) | 1.50 GB |
+| [数据分卷 3](https://github.com/tengjie3/Crawl_Data/releases/download/intelligent-discovery-html-v2026.09.16/intelligent-data-discovery-html-only-2026-09-16.zip.part03) | 975.65 MB |
+| [合并脚本与说明](https://github.com/tengjie3/Crawl_Data/releases/download/intelligent-discovery-html-v2026.09.16/download-helpers.zip) | Windows / macOS / Linux 系统命令 |
+| [SHA256 校验清单](https://github.com/tengjie3/Crawl_Data/releases/download/intelligent-discovery-html-v2026.09.16/SHA256SUMS.txt) | 核对下载完整性 |
 
 1. 下载 Release 中的 `intelligent-data-discovery-html-only-2026-09-16.zip.part01`、`.part02`、`.part03`，以及 `download-helpers.zip`，放在同一个文件夹。
 2. 解压 `download-helpers.zip`，把里面的脚本放在上述三个分卷旁边。
