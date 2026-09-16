@@ -1,0 +1,496 @@
+{
+  "archiveSha256": "59895244a6888785e56b60a3757f865cd63b47b37d83d128f00e12c4d40a2602",
+  "files": [
+    {
+      "path": "index.html",
+      "bytes": 374,
+      "sha256": "7106f2c27b3c53be35691471a9278b174d79f7c565ed2be4d21577c0e645c307"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_catalog.json",
+      "bytes": 6087106,
+      "sha256": "4c39f99f7ff7f476b538c5edd50e06d3bf70f6f0112e37da6a42dbd71bd37133"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_catalog_zh.html",
+      "bytes": 6220720,
+      "sha256": "10103891e52233f551ff9d96eb5b63ea31b6bd78b436d7ce5e26f989f1b87d27"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/education_Arabic_html_text.html",
+      "bytes": 36240,
+      "sha256": "6956da0853f40ef784260f14df9addc9e99edbfda02fe54522da265553485d2a"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/education_Chinese_html_text.html",
+      "bytes": 35840,
+      "sha256": "d6e1988e2b06ef6707974a33d549a085f1f781a89f9634721d3caeb7e8553497"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/education_Chinese_image.html",
+      "bytes": 22244,
+      "sha256": "9542b811e8cdfad1e0403ea870a0da08830b40226dbeee2a30a82542730aa02c"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/education_English_html_text.html",
+      "bytes": 36186,
+      "sha256": "24088af4b6fd07cc34581f3b5588d9737b77af7977f313b419724d78c1b4206f"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/education_French_html_text.html",
+      "bytes": 36225,
+      "sha256": "239aef7b9ed6be5aa4b12ba2aef8f3b5d7a2d24f1d86d944e5de479072680fda"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/education_German_html_text.html",
+      "bytes": 36235,
+      "sha256": "0f056160d5a2c8e62de88cacbaf43ea312b9940bff64581681d6e1e0d2429460"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/education_German_image.html",
+      "bytes": 22164,
+      "sha256": "4908e1a466ec85df3c52ca2b448b47fad46e790035e74986d08cff9cc5c74328"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/education_Japanese_html_text.html",
+      "bytes": 36203,
+      "sha256": "f4dbe6817a2b2dcf66360b2de93d273af5bbdddcaac304dd052b831afb223880"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/education_Japanese_video.html",
+      "bytes": 25308,
+      "sha256": "dfc166c81787db54d644cc82cfae0118f5e31827df996ea215e326ebc70bd278"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/education_Korean_html_text.html",
+      "bytes": 36192,
+      "sha256": "6a69cbf9e22ce79816f0d935d1afadef80eb87dfee70ced9a6694eb60c73e05f"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/education_Polish_html_text.html",
+      "bytes": 36157,
+      "sha256": "b30bb39187e6abb14bb3abfd5de8f27299aa60fbd652380b87ab831bd500aa3a"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/education_Russian_html_text.html",
+      "bytes": 36239,
+      "sha256": "f8f4e9fecb2bc1ec7300ae4a921a2394c28bfa8b211f70002f37d154eb5d19a3"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/education_Russian_pdf.html",
+      "bytes": 18510,
+      "sha256": "f806b8fc6bfeb93e7fea2471afae3afdff48b774d77bba44e62e0eb8d78f01e0"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/education_Spanish_html_text.html",
+      "bytes": 36220,
+      "sha256": "df56b0a6d6f090f51eb95a1c000a58a369110b8c049f51289c5057b94fb27bc1"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/education_Turkish_html_text.html",
+      "bytes": 36214,
+      "sha256": "e185089d0bd23f16e638a5cd2f7741baa3107724416ba0cf73c8983c601dfc3a"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/education_UnknownLanguage_html_text.html",
+      "bytes": 36105,
+      "sha256": "9224cd2526f9c1c64ef9b79a5a7ae492957e6aec5a79f4f37a670cb741e635a9"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/literature_Arabic_html_text.html",
+      "bytes": 37459,
+      "sha256": "8738f12f799e9876d54f36b3db6a6ace10cd8338bc301a21af37979218da1c3c"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/literature_Chinese_html_text.html",
+      "bytes": 37489,
+      "sha256": "c7c02b97619bd220544e1e0739a51de89fac2ae4adad92b1f8f7782cddb6a53b"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/literature_English_html_text.html",
+      "bytes": 37439,
+      "sha256": "51a7e5e3a49a57b79d94952f815ac5d4d4c762d9b311857a636e0423ce4a902a"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/literature_English_image.html",
+      "bytes": 29656,
+      "sha256": "c20ea51cb08a97ad031918bea1c8db7340bfa8e00d7514fbf1708a1e47e287d5"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/literature_English_pdf.html",
+      "bytes": 19842,
+      "sha256": "1636d558aadf73bfd0d92794d8849ad3afd8a66ee71ef8dad40c6f0da6ca6cdc"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/literature_French_html_text.html",
+      "bytes": 37455,
+      "sha256": "371b69070df0b859fd6d33970ab1f190fc596ff91c5bdd66dd0271a4b64c6618"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/literature_German_html_text.html",
+      "bytes": 37503,
+      "sha256": "4ec15418adb319802484115a5520edad439642c7481925be859919b5be5696d5"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/literature_Italian_html_text.html",
+      "bytes": 37498,
+      "sha256": "990bb08630d2f76688e53e560ea8eed5719a8d70be00be09fa9a75303e30645e"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/literature_Japanese_html_text.html",
+      "bytes": 37390,
+      "sha256": "0dfbe8ef00440ac6802c30a739c17cdd62492217845a67163b03e4f0433ca39b"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/literature_Japanese_video.html",
+      "bytes": 30470,
+      "sha256": "c6811f8bbf6222293057d0000bdfed7df26cedd4afeacd7d07614462f0aee95f"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/literature_Korean_html_text.html",
+      "bytes": 37536,
+      "sha256": "957f779ea7c17fef05bf1887e0e427205a9435ab474ec4ef7ecb99924a23f4ad"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/literature_Polish_html_text.html",
+      "bytes": 37436,
+      "sha256": "eae4f5ef03453f72c784b5679fdcdaf09b45a26bbc8908e0e284d73265289874"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/literature_Portuguese_html_text.html",
+      "bytes": 37701,
+      "sha256": "948443466a8d8999c802246b04246aaf8ee444d0d446ba54cee0c6bc83910eb2"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/literature_Russian_html_text.html",
+      "bytes": 37497,
+      "sha256": "6ae84841ea4f729b72665da2cd1827b79b8fbcfad91bf82b752b7d136a57020f"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/literature_Russian_video.html",
+      "bytes": 28658,
+      "sha256": "9e8e29f56fcf00b0070f387ec71cd062e9b595e431cff7ed3bd889f5277eae8c"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/literature_Spanish_html_text.html",
+      "bytes": 37692,
+      "sha256": "b9e1fab202011eb61967aef16c96073c212cd5ee72527a52a8393142fac29321"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/literature_Turkish_html_text.html",
+      "bytes": 37644,
+      "sha256": "4da6e5dfbad697a6ab50a1f197ee7b950ef387691dedbf2d28f768732a7cb9f3"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/literature_UnknownLanguage_html_text.html",
+      "bytes": 37625,
+      "sha256": "138288a66bf1373e8869016b2b52c754d2b5b5fff25b1a79ab30436b14577781"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_Arabic_html_text.html",
+      "bytes": 35261,
+      "sha256": "25c67dcf80a068bcdb06ab9ac470ef9ade133caaf68d191db92f187bec426405"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_Arabic_image.html",
+      "bytes": 234801,
+      "sha256": "d7b8db2deda1bf030b6453289da713e83f8dea94f81097e9871b742f3281c730"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_Arabic_pdf.html",
+      "bytes": 35592,
+      "sha256": "fc15e1b21412428903cb280284fffb6696b116880eaed70b2896f7d5c19f1f2c"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_Arabic_video.html",
+      "bytes": 19335,
+      "sha256": "52f0006921425d3cf8b2f44acf739f593d68914a8a09b43ca27f758f49a5a569"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_Chinese_html_text.html",
+      "bytes": 40056,
+      "sha256": "57d5ff81ccc1ddb29f512c6b47ed03426db3d4db83937563384e166c9fd94fbe"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_Chinese_image.html",
+      "bytes": 234778,
+      "sha256": "e63193dc5f5561c0077a3ba38fa8a460e50251f002d3196538e47b5c2b49b8ca"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_Chinese_pdf.html",
+      "bytes": 40210,
+      "sha256": "c3c8affa55c7748f328f1ea6471314271962b0b86a71a7d838b3ebc98b492c03"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_Chinese_video.html",
+      "bytes": 19312,
+      "sha256": "1567046eec9938f043a951951b0f20b0d2cb9dd7e01aba56d4be49e516a4c4ee"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_English_html_text.html",
+      "bytes": 34768,
+      "sha256": "dc0e8c4d92a4837bd220e001e8f07a661e0de87761cf036c1855b85d917343b9"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_English_image.html",
+      "bytes": 234778,
+      "sha256": "7336e86de49522b806d4c5863dfd23e1f51435bb27ce8925f287df2e5ef05032"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_English_pdf.html",
+      "bytes": 34735,
+      "sha256": "d52593143a820d9f46acc712bc6efadbc992df0805ce5e827f43f875a407540e"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_English_video.html",
+      "bytes": 19312,
+      "sha256": "c197247604b58717799725a4b799f87b27a613fcc3cc46089e38697a98d9f34d"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_French_html_text.html",
+      "bytes": 35897,
+      "sha256": "92a3e96006352fd7f59afda8f10e3a8863e1d80a82e1a108576302b9d629888b"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_French_image.html",
+      "bytes": 234771,
+      "sha256": "f21fada944fde675757c12fc5c0277b6d67eeea60e1ae88d0f30e2f0e3b8a1e9"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_French_pdf.html",
+      "bytes": 35870,
+      "sha256": "ca9795954b20c30f4079bd06b24995ffea7068106b73996c4ed522db8009888b"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_French_video.html",
+      "bytes": 19305,
+      "sha256": "772881604444693fd1a46ec28de7244730e59b9f6c1742cad243dc1db04d7e4b"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_German_html_text.html",
+      "bytes": 34887,
+      "sha256": "6276166cff5ee8cee11d1ee5f8735ae54d7a5fb44cd065240365bc52430fece0"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_German_image.html",
+      "bytes": 234771,
+      "sha256": "a5c6090c24ab47358f4fa472de8caee035fff4e0d1ebca26d58c1a6d0b44d044"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_German_pdf.html",
+      "bytes": 35214,
+      "sha256": "891e65819352cfe5b1b90739381e8f7112ed04f0227b00e24b9a6ecc9855585b"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_German_video.html",
+      "bytes": 19305,
+      "sha256": "4341bd143f12223174e6cf0a76be5ba180002af42986eeee0b98337ac6399471"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_Italian_html_text.html",
+      "bytes": 34772,
+      "sha256": "08e678e88ce9b957bef5a933f74ebef3d8de714138af1041cc35750068fe3fda"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_Italian_image.html",
+      "bytes": 234808,
+      "sha256": "6c772ec697eb01edc911e64e76c2d15d42023c6296f96b24271492f39cbc4862"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_Italian_pdf.html",
+      "bytes": 34984,
+      "sha256": "a9cf87a09d3bdb02480a7ade57484b46b100f12d5da7d3b84411d08ac35c4dcb"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_Italian_video.html",
+      "bytes": 19342,
+      "sha256": "a1d011bda54b0f84c6ecc33964308567f256f8d62f9583c579e727d3883d6bec"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_Japanese_html_text.html",
+      "bytes": 37217,
+      "sha256": "532e57d4e5fea06ee258741eb9caffd25ac2068e7e342f30b43e8e03687c71e2"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_Japanese_image.html",
+      "bytes": 234785,
+      "sha256": "78e7edbcb6f2a32054419901db91bb6b7b2611990e53bca95aa65025cfbad5cf"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_Japanese_pdf.html",
+      "bytes": 37174,
+      "sha256": "2f2b91be9ab032ef47efe43c2b2dc715c0cb872785fb30a559863c07c12791f4"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_Japanese_video.html",
+      "bytes": 19319,
+      "sha256": "77a433f011fed5c0bc14cef3d712503eb50d13bfed5d0e837d7d2f77587d310c"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_Korean_html_text.html",
+      "bytes": 43835,
+      "sha256": "fe535aa4210989ea35da3cec61ea84e91209deea9a22d08746019f483a20a55a"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_Korean_image.html",
+      "bytes": 234771,
+      "sha256": "1985c9d03a9334ce02bf3f1d2b9263fa29cb327b75d81619f9eb5c39ba6669bd"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_Korean_pdf.html",
+      "bytes": 43857,
+      "sha256": "f79d3eb24184aa8a2932b8a5901674e3e646bf59020438d6c4103d8025bc5a0c"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_Korean_video.html",
+      "bytes": 19305,
+      "sha256": "76b9f50ccf80042ee6c15a376d81bfdd7b7fd9f7aa670e8e42af724b0d0317fd"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_Polish_html_text.html",
+      "bytes": 34962,
+      "sha256": "61be9bad7a4a1ac773423171bedd8360450be3425d0523592c655265199c1994"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_Polish_image.html",
+      "bytes": 234786,
+      "sha256": "de8278d3e6f67fdf83f4dcaa51c9d78dafc0be5b972157eea4f8fa41f51881eb"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_Polish_pdf.html",
+      "bytes": 35358,
+      "sha256": "63db633d8d40fac31fc75435174abe048a1ecebcffe49b5590025d60a7aacca7"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_Polish_video.html",
+      "bytes": 19320,
+      "sha256": "03966855b9afed0778fe500fb48490a3a7ab03dc1952e8b37c7ce3e54372c81a"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_Portuguese_html_text.html",
+      "bytes": 33728,
+      "sha256": "cfe676dee2d97f374a517392340ac5e3a2151da5e1abcd5c96e73dfcc1accd1e"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_Portuguese_image.html",
+      "bytes": 234829,
+      "sha256": "902936808cc0f88481aa97705db76419a2908175cb82fe487a7a52834f0e3c83"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_Portuguese_pdf.html",
+      "bytes": 34313,
+      "sha256": "229173da3d121a5109d730deee928c03fdfd6e6f4a6d7db450c1caae44a612fa"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_Portuguese_video.html",
+      "bytes": 19363,
+      "sha256": "aff92d87161bd03b9722663ee62d7cb1d9323284ab46c57e61026cf22fe4426c"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_Russian_html_text.html",
+      "bytes": 36374,
+      "sha256": "00778892ce892a596b99176d3b00d9547541f8a37cd42f442c28b5e35820c892"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_Russian_image.html",
+      "bytes": 234778,
+      "sha256": "34c469b0855c805f9e3a4081b3707cb7e6ac5c76fc92b9b05415c71994965965"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_Russian_pdf.html",
+      "bytes": 36312,
+      "sha256": "a91b1b7687cabc192ceab0e2a346502649d28b6099b37823ad3e6b740c37335e"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_Russian_video.html",
+      "bytes": 19312,
+      "sha256": "896742a8d9fdbf8c9155d877ab02d01bf925ae5c5660659357dfd40ef30e0b16"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_Spanish_html_text.html",
+      "bytes": 35507,
+      "sha256": "8151ca87029091a7a931866a5b6e2c4fc7be50f2dcc5fc8c1e40d31bec959dab"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_Spanish_image.html",
+      "bytes": 234808,
+      "sha256": "817f83e583807386dfc1f231438264522160967dcd1449888fae2439db829fc3"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_Spanish_pdf.html",
+      "bytes": 35739,
+      "sha256": "ac32d9b06a8e4ab02187cb568e86f332c5fec290ba66fd9fdd61a16d5d9d392c"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_Spanish_video.html",
+      "bytes": 19342,
+      "sha256": "7dcc5cda91cff43846826b2bba5509b5c2db9079b78808e0540e6fcea793daf1"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_Turkish_html_text.html",
+      "bytes": 33886,
+      "sha256": "82a9dcb025ffde8c51b92656fb33d60a9fc9d88052c1b1f6d2cb0bd969471952"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_Turkish_image.html",
+      "bytes": 234808,
+      "sha256": "af1289daf52c17626f1f4c98d6a56886681d6624152e7f74b0ace7fe83ed97d4"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_Turkish_pdf.html",
+      "bytes": 34287,
+      "sha256": "2ee1edf0297873cb8deb4cc45c15b090ca351839d2eecaab99548d709cf97e0f"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/dataset_profiles/movie_Turkish_video.html",
+      "bytes": 19342,
+      "sha256": "483c0ead984edda2a6f30c9439daf8e6f183a8f72d43f2be49a4c7174bf5b362"
+    },
+    {
+      "path": "output/dataset_catalog_2026-09-02/preview_screening_report.json",
+      "bytes": 1861094,
+      "sha256": "ecc6932044cbe03cd41743b83df27bd0231f84292eb2445ef35e1732f8c9a4fc"
+    },
+    {
+      "path": "output/pdf/education_dataset_profile_value_2026-08-21/education_dataset_profile_value_report_zh.html",
+      "bytes": 120806,
+      "sha256": "12d32f11b9642aeb5254da0dc15edd98eb252f0f7b9794c8a94e8e43b818c4e8"
+    },
+    {
+      "path": "output/pdf/education_dataset_profile_value_2026-08-21/education_interactive_profile_summary.json",
+      "bytes": 36032,
+      "sha256": "525fd8683119c04f0f60f5e4a263c37c71931e7dec220e56f2f2b53ce33f0eab"
+    },
+    {
+      "path": "output/pdf/literature_dataset_profile_value_2026-08-24/literature_dataset_profile_value_report_zh.html",
+      "bytes": 126297,
+      "sha256": "15e5f97eeebddd0a1492fb1c663e636e06accad536add71bbcd23570de9d26ed"
+    },
+    {
+      "path": "output/pdf/literature_dataset_profile_value_2026-08-24/literature_interactive_profile_summary.json",
+      "bytes": 36904,
+      "sha256": "10445ac9ce6eadc3d27da3feebdf7807818d228bddade1a778eceaefd271b03f"
+    },
+    {
+      "path": "output/pdf/movie_dataset_profile_value_v2_2026-08-20/movie_actual_profile_summary.json",
+      "bytes": 138826,
+      "sha256": "ed00fba1de81a67506d567c9d29605e4cfdae8fb3dd557b1d9ac6fad195ce471"
+    },
+    {
+      "path": "output/pdf/movie_dataset_profile_value_v2_2026-08-20/movie_dataset_profile_value_report_zh.html",
+      "bytes": 115876,
+      "sha256": "a235cdc78a7ae857f2030aeaebcc8430729f642e2342b1682afbfdd2d1ea3742"
+    },
+    {
+      "path": "output/pdf/movie_dataset_profile_value_v2_2026-08-20/movie_source_enrichment_catalog.json",
+      "bytes": 4321414,
+      "sha256": "2ecb8f8d20705fd26e81407c6b7c7eee8bd4081c916e807244eec0d03715e4da"
+    },
+    {
+      "path": "打开智能找数.html",
+      "bytes": 374,
+      "sha256": "7106f2c27b3c53be35691471a9278b174d79f7c565ed2be4d21577c0e645c307"
+    }
+  ],
+  "note": "HTML/JSON source snapshot only; complete resources are release assets."
+}

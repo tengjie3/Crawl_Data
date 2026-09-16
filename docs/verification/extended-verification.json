@@ -1,0 +1,33 @@
+{
+  "result": {
+    "complete-6000": {
+      "processed": 6000,
+      "kept": 5437,
+      "duplicates": 563,
+      "failed": 0,
+      "files": 10965,
+      "zipBytes": 231277066,
+      "verifiedEverySha256": true
+    },
+    "mixed": {
+      "processed": 15,
+      "kept": 14,
+      "duplicates": 1,
+      "failed": 0,
+      "files": 44,
+      "zipBytes": 3548960,
+      "verifiedEverySha256": true
+    },
+    "cancellation": true,
+    "individualReportCount": 86,
+    "videos": {
+      "tested": 310,
+      "failed": 0,
+      "actualPlayback": true
+    }
+  },
+  "errors": [],
+  "network": [],
+  "protocol": "file:",
+  "serverStarted": false
+}

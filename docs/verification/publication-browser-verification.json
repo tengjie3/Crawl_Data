@@ -1,0 +1,60 @@
+{
+  "checks": {
+    "search": true,
+    "video": {
+      "src": "file://<original-project>/output/packages/2026-09-15-html-only/intelligent-data-discovery-html-only-2026-09-15/output/dataset_catalog_2026-09-02/sample_assets/movie_English_video/sample_01_clear.webm",
+      "time": 0.122627,
+      "width": 640
+    },
+    "image": true,
+    "pdf": true,
+    "text": true,
+    "compare": true,
+    "exportCsv": true,
+    "exportExcel": true,
+    "merge": {
+      "processed": 6,
+      "kept": 6,
+      "duplicates": 0,
+      "failed": 0,
+      "sources": {
+        "movie_English_html_text": {
+          "processed": 3,
+          "kept": 3,
+          "duplicates": 0,
+          "failed": 0
+        },
+        "movie_English_video": {
+          "processed": 3,
+          "kept": 3,
+          "duplicates": 0,
+          "failed": 0
+        }
+      },
+      "deduplication": "SHA-256 of [type, exact text, original asset SHA-256]",
+      "binaryDeduplication": "SHA-256 shared assets; distinct captions retained",
+      "sampling": "sorted record file prefix per dataset",
+      "quality": {
+        "sourceUrlPresent": 6,
+        "licenseFieldPresent": 6,
+        "denominator": 6,
+        "scopeScores": null,
+        "scoreStatus": "not_evaluated",
+        "note": "Evaluation engines were not run; source scores are not inherited or averaged. A license field is not proof of authorization."
+      }
+    },
+    "historyAfterReload": true,
+    "datasetReport": true,
+    "movieReport": true,
+    "educationReport": true,
+    "literatureReport": true,
+    "mobileVideo": true
+  },
+  "errors": [],
+  "network": [],
+  "outsidePackage": [],
+  "protocol": "file:",
+  "serverStarted": false,
+  "browserSecurityDisabled": false,
+  "sourceSandboxed": false
+}

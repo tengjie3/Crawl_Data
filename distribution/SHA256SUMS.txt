@@ -1,0 +1,4 @@
+680a98401f2de05ed560dcdc2d4b535a40b08d7583c2c312a840e0cb6652ef1d  intelligent-data-discovery-html-only-2026-09-15.zip.part01
+4b5b981550aac4e3718d123fb41123ce2dc6b43a74f3eebd61938f5af58ce028  intelligent-data-discovery-html-only-2026-09-15.zip.part02
+6dc9ac15f505b731413b0b74990c0e30faf94cb40b1fb62c1939a5ed8fa50bae  intelligent-data-discovery-html-only-2026-09-15.zip.part03
+e869cde0e72da5b9dc299f7cce60804972af312e2cf69126ff7ab544e193d82c  download-helpers.zip
